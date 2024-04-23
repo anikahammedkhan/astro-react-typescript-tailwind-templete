@@ -19,13 +19,13 @@ Navigate to the project directory and install dependencies using your package ma
 (Yarn Recommended!!)
 
 ```bash
-cd astro-react-ts-tailwindcss-template
+cd astro-react-typescript-tailwind-templete
 yarn install
 ```
 or
 
 ```bash
-cd astro-react-ts-tailwindcss-template
+cd astro-react-typescript-tailwind-templete
 npm install
 ```
 
